@@ -1,0 +1,21 @@
+{
+  "name": "calculator-javascript-project",
+  "version": "1.0.0",
+  "description": "A simple calculator project using JavaScript.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js", // Adjust if your entry point is different
+    "format": "prettier --write .",
+    "test": "echo \"No test specified\" && exit 0"
+  },
+  "keywords": [
+    "calculator",
+    "javascript",
+    "project"
+  ],
+  "author": "codeknight05",
+  "license": "MIT",
+  "devDependencies": {
+    "prettier": "^2.8.8"
+  }
+}
