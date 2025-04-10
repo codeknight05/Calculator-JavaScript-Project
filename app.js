@@ -6,6 +6,7 @@
   let clear = document.querySelector('.btn-clear');
   let equal = document.querySelector('.btn-equal');
   
+  
   //retrieve data from numbers that are clicked
   buttons.forEach(function(button){
     button.addEventListener('click', function(e){
